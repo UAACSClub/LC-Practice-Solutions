@@ -35,6 +35,6 @@ rotate 2 steps to the right: [3,99,-1,-100]
 - There are at least three different ways to solve this problem.
 - Could you do it in-place with O(1) extra space?
 
-#Repo Contributions
+# Repo Contributions
 
 Although the problem has solutions in C++, if yu are interested in solving it in another language talk to any of the officers of the computer science club to add you to the repo as a contributor!
